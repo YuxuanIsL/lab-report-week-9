@@ -109,4 +109,4 @@ fi` not executed.
 
  `exit 1` No stdout or stderr. Exit code 0.
 
-
+`fi` ends `if`. No stdout or stderr. Exit code 0.
