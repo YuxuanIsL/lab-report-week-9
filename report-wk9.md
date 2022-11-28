@@ -72,13 +72,13 @@ fi
 ```
 ## Three student submissions
 Example 1: https://github.com/ucsd-cse15l-f22/list-methods-corrected which has the methods corrected (I would expect this to get full or near-to-full credit)
-![image](https://github.com/YuxuanIsL/lab-report-week-9/blob/main/corrected.png)
+![image](./corrected.png)
 
 Example 2: https://github.com/ucsd-cse15l-f22/list-methods-compile-error, which has a syntax error of a missing semicolon.
-![image](https://github.com/YuxuanIsL/lab-report-week-9/blob/main/compile-error.png)
+![image](./compile-error.png)
 
 Example 3: https://github.com/ucsd-cse15l-f22/list-methods-filename, which has a great implementation saved in a file with the wrong name.
-![image](https://github.com/YuxuanIsL/lab-report-week-9/blob/main/filename.png)
+![image](./filename.png)
 
 ## Trace script in Example 3
 
